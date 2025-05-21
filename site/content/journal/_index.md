@@ -1,6 +1,6 @@
 ---
 title: "Журнал"
-type: "list"
+type: "page"
 toc: false
 ---
 
